@@ -34,9 +34,13 @@
    * Explain why it's essential for new engineers (in your own words)
 
 **Answer:** 
-*TYPE_YOUR_ANSWER_HERE*
+git log is a command in Git that displays the commit history of a repository and helps new engineers understand how the project has evolved over time
+
+git diff is a Git command that shows the differences between files, commits, branches, or the working directory .
+git diff is crucial because it helps them understand changes made to the code, identify errors, and review work before committing.
+
 
 2. After one and a half years in the ISNE program, what advice would you give to prospective ISNE students? (Minimum 50 words)
 
 **Answer:** 
-*TYPE_YOUR_ANSWER_HERE*
+To prospective ISNE students Focus on building a strong foundation in both software and systems engineering early on. Engage actively in projects and internships to apply theoretical knowledge. Network with peers and professionals, and seek mentorship. Stay curious and adaptable, as the field evolves rapidly. Balance academics with personal growth and well-being.
